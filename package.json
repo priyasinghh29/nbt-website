@@ -1,6 +1,7 @@
-"homepage": "https://priyasinghh29.github.io/nbt-website",
+
 {
   "name": "vite_react_shadcn_ts",
+  "homepage": "https://priyasinghh29.github.io/nbt-website",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,9 +12,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "vitest run",
-    "test:watch": "vitest",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "test:watch": "vitest"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
