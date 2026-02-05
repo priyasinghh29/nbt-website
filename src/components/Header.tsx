@@ -115,7 +115,7 @@ export const Header = () => {
                   </Link>
                 </motion.div>
               ))}
-              <Link to="/contact" onClick={() => setIsMobileMenuOpen(false)}>
+              <Link to="/consultation" onClick={() => setIsMobileMenuOpen(false)}>
                 <Button variant="hero" className="mt-4 w-full">
                   Get Consultation
                 </Button>

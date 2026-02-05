@@ -41,7 +41,7 @@ export const FloatingContact = () => {
                   <p className="text-sm font-medium text-foreground group-hover:text-primary transition-colors">
                     Call Us
                   </p>
-                  <p className="text-xs text-muted-foreground">+971 4 555 1234</p>
+                  <p className="text-xs text-muted-foreground">+971 544862924</p>
                 </div>
               </a>
 
@@ -56,7 +56,7 @@ export const FloatingContact = () => {
                   <p className="text-sm font-medium text-foreground group-hover:text-primary transition-colors">
                     Email Us
                   </p>
-                  <p className="text-xs text-muted-foreground">hello@nooralburooj.com</p>
+                  <p className="text-xs text-muted-foreground">Nooralburooj@gmail.com</p>
                 </div>
               </a>
 
@@ -66,7 +66,7 @@ export const FloatingContact = () => {
                 </div>
                 <div>
                   <p className="text-sm font-medium text-foreground">Visit Us</p>
-                  <p className="text-xs text-muted-foreground">Business Bay, Dubai</p>
+                  <p className="text-xs text-muted-foreground">Office 101 Hor al anz building, Dubai, United Arab Emirates</p>
                 </div>
               </div>
 
