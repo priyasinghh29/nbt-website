@@ -144,7 +144,7 @@ export const Footer = () => {
           className="border-t border-primary-foreground/10 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4"
         >
           <p className="text-primary-foreground/50 text-sm">
-            © 2024 Noor Al Burooj. All rights reserved.
+            © {new Date().getFullYear()} Noor Al Burooj. All rights reserved.
           </p>
           <div className="flex gap-6">
             <a href="#" className="text-primary-foreground/50 hover:text-primary-foreground text-sm transition-colors">
